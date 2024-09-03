@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TijnFlinterman
 - 👀 I’m interested in VR Development and 3d shooters.
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 How to reach me https://tijnflinterman.github.io/
 
 <!---
